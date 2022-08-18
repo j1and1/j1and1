@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @j1and1
-- 👀 I’m interested in **computervision**, **robotics**, **3D printing**, **game development**, **linux**
-- 🌱 I’m currently learning **Verilog**
+- 👀 I’m interested in **computervision**, **robotics**, **Arduino**, **CubeMX**, **3D printing**, **game development**, **linux**
+<!--- 🌱 I’m currently slowly learning **Verilog** -->
 - 💞️ I’m looking to collaborate on games, computervision and possibly other interesting stuff
 
 <!---
